@@ -1,0 +1,6 @@
+com\example\sqlgateway\QueryServlet$ResErr.class
+com\example\sqlgateway\AppInitListener.class
+com\example\sqlgateway\QueryServlet$ResOk.class
+com\example\sqlgateway\DB.class
+com\example\sqlgateway\QueryServlet$ReqBody.class
+com\example\sqlgateway\QueryServlet.class
